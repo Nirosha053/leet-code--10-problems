@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Two Pointers
 |  |
@@ -46,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0189-rotate-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
