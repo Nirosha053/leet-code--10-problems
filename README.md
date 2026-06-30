@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0088-merge-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Greedy
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0088-merge-sorted-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## String
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2180-count-integers-with-even-digit-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
