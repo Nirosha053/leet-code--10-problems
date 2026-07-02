@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0929-unique-email-addresses](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0929-unique-email-addresses) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0929-unique-email-addresses](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0929-unique-email-addresses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0575-distribute-candies) |
+| [0929-unique-email-addresses](https://github.com/Nirosha053/leet-code--10-problems/tree/master/0929-unique-email-addresses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
