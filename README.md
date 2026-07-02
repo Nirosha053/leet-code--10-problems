@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nirosha053/leet-code--10-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Nirosha053/leet-code--10-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [2485-find-the-pivot-integer](https://github.com/Nirosha053/leet-code--10-problems/tree/master/2485-find-the-pivot-integer) |
 ## Queue
 |  |
 | ------- |
